@@ -1,0 +1,84 @@
+
+body{
+    background-image: url(https://e0.pxfuel.com/wallpapers/683/41/desktop-wallpaper-premium-psd-of-blank-wooden-board-on-a-metallic-green-leaves-powerpoint-background-design-leaf-texture-background-design.jpg);
+    background-size: cover;
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-top: 10%;
+}
+
+h1{
+    font-size: 5rem;
+    font-weight: 700;
+    margin-bottom: 2rem;
+    margin-top: 2%;
+    padding-top: 2%;
+}
+
+label{
+    font-size: 1.5rem;
+    font-weight: 700;
+    margin-bottom: 0.5rem;
+}
+
+input{
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+    margin-bottom: 1rem;
+}
+
+/* button{
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+    margin-bottom: 1rem;
+    background-color: #212529;
+    color: #fff;
+    cursor: pointer;
+} */
+
+.btn{
+    width: 100%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+    margin-bottom: 1rem;
+    background-color: #212529;
+    color: #fff;
+    cursor: pointer;
+}
+
+.result, .knowyou{
+    width: 20%;
+    padding: 0.75rem 1rem;
+    font-size: 1rem;
+    border-radius: 0.25rem;
+    border: 1px solid #ced4da;
+    margin-bottom: 1rem;
+    background-color: #18835a;
+    color: #fff;
+    cursor: pointer;
+    text-align: center;
+}
+
